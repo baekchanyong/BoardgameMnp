@@ -1,0 +1,997 @@
+{
+  "mnpGame": 1,
+  "project": {
+    "definition": {
+      "meta": {
+        "id": "game-mt4a2y5l",
+        "name": "포카드",
+        "players": {
+          "min": 2,
+          "max": 4
+        },
+        "viewMode": "2d"
+      },
+      "cards": [
+        {
+          "id": "trump-스페이드-1",
+          "name": "♠A",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 1,
+            "표시": "A",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-스페이드-2",
+          "name": "♠2",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 2,
+            "표시": "2",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-스페이드-3",
+          "name": "♠3",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 3,
+            "표시": "3",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-스페이드-4",
+          "name": "♠4",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 4,
+            "표시": "4",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-스페이드-5",
+          "name": "♠5",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 5,
+            "표시": "5",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-스페이드-6",
+          "name": "♠6",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 6,
+            "표시": "6",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-스페이드-7",
+          "name": "♠7",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 7,
+            "표시": "7",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-스페이드-8",
+          "name": "♠8",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 8,
+            "표시": "8",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-스페이드-9",
+          "name": "♠9",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 9,
+            "표시": "9",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-스페이드-10",
+          "name": "♠10",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 10,
+            "표시": "10",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-스페이드-11",
+          "name": "♠J",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 11,
+            "표시": "J",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-스페이드-12",
+          "name": "♠Q",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 12,
+            "표시": "Q",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-스페이드-13",
+          "name": "♠K",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "스페이드"
+          ],
+          "props": {
+            "무늬": "♠",
+            "숫자": 13,
+            "표시": "K",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-하트-1",
+          "name": "♥A",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 1,
+            "표시": "A",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-하트-2",
+          "name": "♥2",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 2,
+            "표시": "2",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-하트-3",
+          "name": "♥3",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 3,
+            "표시": "3",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-하트-4",
+          "name": "♥4",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 4,
+            "표시": "4",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-하트-5",
+          "name": "♥5",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 5,
+            "표시": "5",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-하트-6",
+          "name": "♥6",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 6,
+            "표시": "6",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-하트-7",
+          "name": "♥7",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 7,
+            "표시": "7",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-하트-8",
+          "name": "♥8",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 8,
+            "표시": "8",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-하트-9",
+          "name": "♥9",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 9,
+            "표시": "9",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-하트-10",
+          "name": "♥10",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 10,
+            "표시": "10",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-하트-11",
+          "name": "♥J",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 11,
+            "표시": "J",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-하트-12",
+          "name": "♥Q",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 12,
+            "표시": "Q",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-하트-13",
+          "name": "♥K",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "하트"
+          ],
+          "props": {
+            "무늬": "♥",
+            "숫자": 13,
+            "표시": "K",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-1",
+          "name": "♦A",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 1,
+            "표시": "A",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-2",
+          "name": "♦2",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 2,
+            "표시": "2",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-3",
+          "name": "♦3",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 3,
+            "표시": "3",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-4",
+          "name": "♦4",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 4,
+            "표시": "4",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-5",
+          "name": "♦5",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 5,
+            "표시": "5",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-6",
+          "name": "♦6",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 6,
+            "표시": "6",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-7",
+          "name": "♦7",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 7,
+            "표시": "7",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-8",
+          "name": "♦8",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 8,
+            "표시": "8",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-9",
+          "name": "♦9",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 9,
+            "표시": "9",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-10",
+          "name": "♦10",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 10,
+            "표시": "10",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-11",
+          "name": "♦J",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 11,
+            "표시": "J",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-12",
+          "name": "♦Q",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 12,
+            "표시": "Q",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-다이아-13",
+          "name": "♦K",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "다이아"
+          ],
+          "props": {
+            "무늬": "♦",
+            "숫자": 13,
+            "표시": "K",
+            "색": "빨강"
+          }
+        },
+        {
+          "id": "trump-클로버-1",
+          "name": "♣A",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 1,
+            "표시": "A",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-클로버-2",
+          "name": "♣2",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 2,
+            "표시": "2",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-클로버-3",
+          "name": "♣3",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 3,
+            "표시": "3",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-클로버-4",
+          "name": "♣4",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 4,
+            "표시": "4",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-클로버-5",
+          "name": "♣5",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 5,
+            "표시": "5",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-클로버-6",
+          "name": "♣6",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 6,
+            "표시": "6",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-클로버-7",
+          "name": "♣7",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 7,
+            "표시": "7",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-클로버-8",
+          "name": "♣8",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 8,
+            "표시": "8",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-클로버-9",
+          "name": "♣9",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 9,
+            "표시": "9",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-클로버-10",
+          "name": "♣10",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 10,
+            "표시": "10",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-클로버-11",
+          "name": "♣J",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 11,
+            "표시": "J",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-클로버-12",
+          "name": "♣Q",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 12,
+            "표시": "Q",
+            "색": "검정"
+          }
+        },
+        {
+          "id": "trump-클로버-13",
+          "name": "♣K",
+          "home": "z_cmt4a2zv7",
+          "copies": 1,
+          "tags": [
+            "클로버"
+          ],
+          "props": {
+            "무늬": "♣",
+            "숫자": 13,
+            "표시": "K",
+            "색": "검정"
+          }
+        }
+      ],
+      "zones": [
+        {
+          "id": "z_cmt4a2zv7",
+          "owner": "shared",
+          "visibility": "none",
+          "ordered": true,
+          "cardHome": true
+        },
+        {
+          "id": "z_cmt4a3145",
+          "owner": "shared",
+          "visibility": "all",
+          "ordered": false,
+          "cardHome": false
+        },
+        {
+          "id": "z_cmt4a3bui",
+          "owner": "perPlayer",
+          "visibility": "owner",
+          "ordered": true,
+          "cardHome": false
+        }
+      ],
+      "variables": [],
+      "setup": [
+        {
+          "type": "shuffle",
+          "zone": "z_cmt4a2zv7"
+        },
+        {
+          "type": "deal",
+          "from": "z_cmt4a2zv7",
+          "toEachPlayerZone": "z_cmt4a3bui",
+          "count": 4
+        }
+      ],
+      "actions": [
+        {
+          "id": "amt4a5bo4",
+          "name": "한 장 버리기",
+          "actor": "turnPlayer",
+          "card": {
+            "from": "z_cmt4a3bui@$actor",
+            "require": []
+          },
+          "effects": [
+            {
+              "type": "move",
+              "card": "$card",
+              "from": "z_cmt4a3bui@$actor",
+              "to": "z_cmt4a3145"
+            },
+            {
+              "type": "endTurn"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "zoneCount",
+              "zone": "z_cmt4a3bui@$actor",
+              "op": "==",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "id": "amt4a82nf",
+          "name": "카드 뽑기",
+          "actor": "turnPlayer",
+          "conditions": [
+            {
+              "type": "zoneCount",
+              "zone": "z_cmt4a3bui@$actor",
+              "op": "==",
+              "value": 4
+            }
+          ],
+          "effects": [
+            {
+              "type": "move",
+              "from": "z_cmt4a2zv7",
+              "to": "z_cmt4a3bui@$actor",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "id": "rmt4a675p",
+          "trigger": {
+            "type": "cardPlayed"
+          },
+          "conditions": [
+            {
+              "type": "zoneSameProp",
+              "zone": "z_cmt4a3bui@$eventPlayer",
+              "prop": "표시",
+              "op": ">=",
+              "value": 4
+            }
+          ],
+          "effects": [
+            {
+              "type": "declareWin",
+              "player": "$eventPlayer"
+            }
+          ]
+        },
+        {
+          "id": "rmt4a68jg",
+          "trigger": {
+            "type": "zoneEmptied",
+            "zone": "z_cmt4a2zv7"
+          },
+          "effects": [
+            {
+              "type": "moveAll",
+              "from": "z_cmt4a3145",
+              "to": "z_cmt4a2zv7",
+              "exceptTop": true
+            },
+            {
+              "type": "shuffle",
+              "zone": "z_cmt4a2zv7"
+            }
+          ]
+        }
+      ]
+    },
+    "layout": {
+      "viewMode": "2d",
+      "components": [
+        {
+          "id": "cmt4a2zv7",
+          "kind": "cardPile",
+          "label": "트럼프 덱",
+          "x": -140,
+          "y": 0,
+          "w": 92,
+          "h": 128,
+          "rotation": 0,
+          "perPlayer": false,
+          "visibility": "none",
+          "takeBy": "anyone",
+          "allowTags": [],
+          "stackStyle": "stack",
+          "ordered": true,
+          "startsEmpty": false,
+          "cardW": 92,
+          "cardH": 128,
+          "backColor": "#7c2d3e"
+        },
+        {
+          "id": "cmt4a3145",
+          "kind": "cardPile",
+          "label": "버린 카드",
+          "x": 0,
+          "y": 0,
+          "w": 92,
+          "h": 128,
+          "rotation": 0,
+          "perPlayer": false,
+          "visibility": "topOnly",
+          "takeBy": "none",
+          "allowTags": [],
+          "stackStyle": "stack",
+          "ordered": false,
+          "startsEmpty": true,
+          "cardW": 92,
+          "cardH": 128,
+          "backColor": "#2a3550"
+        },
+        {
+          "id": "cmt4a3bui",
+          "kind": "cardPile",
+          "label": "내 손패",
+          "x": 140,
+          "y": 200,
+          "w": 92,
+          "h": 128,
+          "rotation": 0,
+          "perPlayer": true,
+          "visibility": "owner",
+          "takeBy": "anyone",
+          "allowTags": [],
+          "stackStyle": "stack",
+          "ordered": true,
+          "startsEmpty": false,
+          "cardW": 92,
+          "cardH": 128,
+          "backColor": "#2a3550"
+        }
+      ]
+    },
+    "thumbnail": "data:image/jpeg;base64,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",
+    "publish": {
+      "description": "차례마다 카드를 한 장 뽑고 한 장 버리며, 같은 표시(A~K) 4장을 먼저 모으면 승리! 기본 제공 트럼프 카드로 만든 게임입니다.",
+      "estimatedMinutes": 20
+    }
+  }
+}
